@@ -1,6 +1,6 @@
-## Try it
+## Link
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+https://my-json-server.typicode.com/danielstanus/etime
 
 ## Use your own data
 
